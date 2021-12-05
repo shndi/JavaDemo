@@ -1,2 +1,10 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+System.out.print("Enter your name: ");
+name = input.nextLine();
+        
+System.out.print("Enter your age: ");
+age = input.nextInt();
+        
+System.out.print("Enter your address: ");
+address = input.nextLine();
