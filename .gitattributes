@@ -8,3 +8,6 @@ age = input.nextInt();
         
 System.out.print("Enter your address: ");
 address = input.nextLine();
+
+System.out.print("Enter your birthday: ");
+address = input.nextLine();
